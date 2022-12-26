@@ -1,0 +1,40 @@
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Release\net5.0-windows\Интелектуальная викторина.exe
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Release\net5.0-windows\Интелектуальная викторина.deps.json
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Release\net5.0-windows\Интелектуальная викторина.runtimeconfig.json
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Release\net5.0-windows\Интелектуальная викторина.runtimeconfig.dev.json
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Release\net5.0-windows\Интелектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Release\net5.0-windows\ref\Интелектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Release\net5.0-windows\Интелектуальная викторина.pdb
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.csproj.AssemblyReference.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Aboutprogram.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\bio.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Geo.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\history.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\MainWindow.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\reshbio.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\reshist.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\result.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\App.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина_MarkupCompile.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина_MarkupCompile.lref
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Aboutprogram.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\bio.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Geo.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\history.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\MainWindow.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\reshbio.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\reshist.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\result.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.g.resources
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.GeneratedMSBuildEditorConfig.editorconfig
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.AssemblyInfoInputs.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.AssemblyInfo.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.csproj.CoreCompileInputs.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\ref\Интелектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.pdb
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\Интелектуальная викторина.genruntimeconfig.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\math.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\resmath.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\math.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Release\net5.0-windows\resmath.baml

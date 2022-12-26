@@ -1,0 +1,31 @@
+﻿<Window x:Class="Интелектуальная_викторина.Aboutprogram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      
+        WindowStyle="None"
+
+         WindowStartupLocation="CenterScreen"
+        xmlns:local="clr-namespace:QuizAK"
+        mc:Ignorable="d"
+        Title="Раздел знаний" Height="758" Width="652">
+    <Grid Height="758" VerticalAlignment="Center">
+        <Grid.Background>
+            <ImageBrush TileMode="Tile" ImageSource="photo_2022_12_01_20_41_25.jpg"/>
+        </Grid.Background>
+        <Button Content="" Click="Button_click1" HorizontalAlignment="Left" Margin="516,640,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.362,0.098" Height="108" Width="136">
+            <Button.Background>
+                <ImageBrush ImageSource="/aboutprogram.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock  HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Height="510" Width="550" FontFamily="Arial Black" FontSize="30"><Span Background="#FF2B2B2B" Foreground="#FFA9B7C6"/><Run Foreground="#FFA60C00" Text="Разработчик:                                                                                                                                                                                                                                          студент группы
+                                                                                                                                                                                                                          ИС-33: Карпов Антон                                                                                                                                                                                                                                          Функционал:                                                                                                                                                                                                                                           Программа Интеллектуальная викторина включает в себя 4 блока по 10 вопросов, к каждому вопросу по 4 ответа.
+                                                                                                                                                                                                                          В зависимости от ответа в окне результата выводится соответствующее изображение.                                                                                                                                                                                                                                                 Хорошей игры!!!"/><LineBreak/><Span Background="#FF2B2B2B" Foreground="#FFA9B7C6"/></TextBlock>
+        <Label Content="О программе" HorizontalAlignment="Center" Margin="0,21,0,0" VerticalAlignment="Top" Foreground="#FFA60C00" FontFamily="Arial Black" Height="51" Width="232" FontSize="30"/>
+        <Label Content="версия 1.1" HorizontalAlignment="Left" Margin="22,697,0,0" VerticalAlignment="Top" Height="45" Width="159" Foreground="#FFA60C00" FontFamily="Arial Black" FontSize="25"/>
+
+
+    </Grid>
+
+</Window>

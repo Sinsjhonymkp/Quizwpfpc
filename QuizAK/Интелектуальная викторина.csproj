@@ -1,0 +1,95 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>ic_launcher-playstore (1).ico</ApplicationIcon>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="aboutprogram.png" />
+    <None Remove="back.png" />
+    <None Remove="bad1.png" />
+    <None Remove="belarus.png" />
+    <None Remove="bio2.png" />
+    <None Remove="brejhnev.jpg" />
+    <None Remove="chech.png" />
+    <None Remove="china.png" />
+    <None Remove="esenin.jpg" />
+    <None Remove="exit.png" />
+    <None Remove="france.png" />
+    <None Remove="geo2.png" />
+    <None Remove="georgia.png" />
+    <None Remove="german.png" />
+    <None Remove="gogol.jpg" />
+    <None Remove="great.png" />
+    <None Remove="history.png" />
+    <None Remove="images\bio2.png" />
+    <None Remove="images\geo2.png" />
+    <None Remove="images\history.png" />
+    <None Remove="images\loadimage.png" />
+    <None Remove="images\math2.png" />
+    <None Remove="images\photo_2022_12_01_20_41_25.jpg" />
+    <None Remove="ivangr.jpg" />
+    <None Remove="kazakhstan.png" />
+    <None Remove="lenin.jpg" />
+    <None Remove="loadimage.png" />
+    <None Remove="math2.png" />
+    <None Remove="mendeleev.jpeg" />
+    <None Remove="mexico.png" />
+    <None Remove="nikolai2.jpg" />
+    <None Remove="norm.png" />
+    <None Remove="petr1.jpg" />
+    <None Remove="photo_2022_12_01_20_41_25.jpg" />
+    <None Remove="pushkin.jpg" />
+    <None Remove="russia.png" />
+    <None Remove="spain.png" />
+    <None Remove="stalin.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="aboutprogram.png" />
+    <Resource Include="back.png" />
+    <Resource Include="bad1.png" />
+    <Resource Include="belarus.png" />
+    <Resource Include="bio2.png" />
+    <Resource Include="brejhnev.jpg" />
+    <Resource Include="chech.png" />
+    <Resource Include="china.png" />
+    <Resource Include="esenin.jpg" />
+    <Resource Include="exit.png" />
+    <Resource Include="france.png" />
+    <Resource Include="geo2.png" />
+    <Resource Include="georgia.png" />
+    <Resource Include="german.png" />
+    <Resource Include="gogol.jpg" />
+    <Resource Include="great.png" />
+    <Resource Include="history.png" />
+    <Resource Include="images\bio2.png" />
+    <Resource Include="images\geo2.png" />
+    <Resource Include="images\history.png" />
+    <Resource Include="images\math2.png" />
+    <Resource Include="images\photo_2022_12_01_20_41_25.jpg" />
+    <Resource Include="ivangr.jpg" />
+    <Resource Include="kazakhstan.png" />
+    <Resource Include="lenin.jpg" />
+    <Resource Include="math2.png" />
+    <Resource Include="mendeleev.jpeg" />
+    <Resource Include="mexico.png" />
+    <Resource Include="nikolai2.jpg" />
+    <Resource Include="norm.png" />
+    <Resource Include="petr1.jpg" />
+    <Resource Include="photo_2022_12_01_20_41_25.jpg" />
+    <Resource Include="pushkin.jpg" />
+    <Resource Include="russia.png" />
+    <Resource Include="spain.png" />
+    <Resource Include="stalin.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <SplashScreen Include="images\loadimage.png" />
+  </ItemGroup>
+
+</Project>

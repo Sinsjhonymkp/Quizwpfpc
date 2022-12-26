@@ -1,0 +1,23 @@
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\Интеллектуальная викторина.exe
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\Интеллектуальная викторина.deps.json
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\Интеллектуальная викторина.runtimeconfig.json
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\Интеллектуальная викторина.runtimeconfig.dev.json
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\Интеллектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\ref\Интеллектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\Интеллектуальная викторина.pdb
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\App.g.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина_MarkupCompile.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина_MarkupCompile.lref
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\MainWindow.baml
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.g.resources
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.GeneratedMSBuildEditorConfig.editorconfig
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.AssemblyInfoInputs.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.AssemblyInfo.cs
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.csproj.CoreCompileInputs.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\ref\Интеллектуальная викторина.dll
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.pdb
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.genruntimeconfig.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\obj\Debug\net5.0-windows\Интеллектуальная викторина.csproj.AssemblyReference.cache
+D:\quizPC\Интеллектуальная викторина\QuizAK\bin\Debug\net5.0-windows\images\loadimage.png

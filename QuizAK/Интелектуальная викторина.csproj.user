@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\quizPC\Интеллектуальная викторина\QuizAK\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Aboutprogram.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="bio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Geo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="history.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="math.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="reshbio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="reshist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="resmath.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="result.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Aboutprogram.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="bio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Geo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="history.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="math.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="reshbio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="reshist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="resmath.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="result.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+D:\SALUKI\Интелектуальная викторина.exe
+D:\SALUKI\Интелектуальная викторина.dll
+D:\SALUKI\Интелектуальная викторина.deps.json
+D:\SALUKI\Интелектуальная викторина.runtimeconfig.json
+D:\SALUKI\Интелектуальная викторина.pdb
